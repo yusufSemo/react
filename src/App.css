@@ -1,0 +1,22 @@
+body{
+  background-color: #004225;
+}
+
+.App{
+  
+}
+.employes{
+  background-color: #121212;
+  width: 500px;
+  font-family: Arial,sans-serif;
+  font-size: 2em;
+  border: 2px solid white;
+  color: #004225;
+  width: 500px;
+}
+.employes p{
+  margin: 0;
+}
+.employes h3{
+
+}
